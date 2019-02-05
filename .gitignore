@@ -1,2 +1,2 @@
 .vagrant/
-salt/roots/apps
+/salt/roots/apps
